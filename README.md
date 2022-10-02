@@ -1,4 +1,4 @@
-# DataSet-150
+# Climate Change Worldwide - DataSet-150
 ## Assignment for Data 150 UiB / Information Science Bachellor
 
 The goal of the assignment is to do the exploratory data analysis on your selected datasets. The purpose of this analysis to explain your dataset to someone who is interested in the topic the dataset is collected for and highlight the interesting properties of the dataset through charts, slices, and summaries. The analysisshould reveal interesting aspects of the data (e.g. worst reviewed airports have this and that properties)
